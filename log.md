@@ -18,5 +18,5 @@
 
 **Today's Progress**: Freecodecamp Projects, Responsive Web Design Certification and Tailwind CSS.
 
-**Thoughts**: D03 | #100DaysOfCode Finished Responsive Web Design Certification at @freeCodeCamp, playing with @tailwindcss and @gulpjs for my upcoming projects 🖖🥤
+**Thoughts**: Finished Responsive Web Design Certification at @freeCodeCamp, playing with @tailwindcss and @gulpjs for my upcoming projects 🖖🥤
 
