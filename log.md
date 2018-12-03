@@ -14,3 +14,9 @@
 
 **Link to work:** [Vue.js notes](https://goo.gl/9XezV9), [Docker notes](https://www.notion.so/raunakhajela/Docker-c80a56a037fc4b0ba170dfb6389de8b5)
 
+### Day 03: Dec 03, 2018
+
+**Today's Progress**: Freecodecamp Projects, Responsive Web Design Certification and Tailwind CSS.
+
+**Thoughts**: D03 | #100DaysOfCode Finished Responsive Web Design Certification at @freeCodeCamp, playing with @tailwindcss and @gulpjs for my upcoming projects 🖖🥤
+
