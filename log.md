@@ -20,3 +20,9 @@
 
 **Thoughts**: Finished Responsive Web Design Certification at @freeCodeCamp, playing with @tailwindcss and @gulpjs for my upcoming projects 🖖🥤
 
+### Day 04: Dec 04, 2018
+
+**Today's Progress**: AMP
+
+**Thoughts**: Revised and played with @AMPhtml for my upcoming project 🖖📱
+
