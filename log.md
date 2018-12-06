@@ -26,3 +26,11 @@
 
 **Thoughts**: Revised and played with @AMPhtml for my upcoming project 🖖📱
 
+### Day 05: Dec 06, 2018
+
+**Today's Progress**: Docker, Wordpress, Flutter
+
+**Thoughts**: Created Docker Wordpress Setup for local theme development and started working on my new Flutter app project 😋
+
+**Link to work:** [Project Management App](https://github.com/raunakhajela/project-management-app)
+
