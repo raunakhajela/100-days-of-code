@@ -34,3 +34,12 @@
 
 **Link to work:** [Project Management App](https://github.com/raunakhajela/project-management-app)
 
+### Day 06: Dec 09, 2018
+
+**Today's Progress**: Upwork Website using TailwindCSS
+
+**Thoughts**: Tried to create Upwork clone using tailwindcss & [TW starter kit](https://github.com/manjumjn/gulp-with-tailwindcss) by [Manju MJN](https://github.com/manjumjn/). The journey was quite overwhelming, struggled with a few TW components but I liked it😌 I am past 2 days for this code challenge due to work but I'm sure I'll pick up the pace 😅
+
+**Link to work:** [Project repo](https://github.com/raunakhajela/tw-upwork)
+
+
