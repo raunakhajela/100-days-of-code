@@ -42,4 +42,21 @@
 
 **Link to work:** [Project repo](https://github.com/raunakhajela/tw-upwork)
 
+### Day 07: Dec 11, 2018
+
+**Today's Progress**: Upwork Website using TailwindCSS
+
+**Thoughts**: One more day spent in my tailwindcss upwork clone project 🤓
+
+### Day 08: Dec 14, 2018
+
+**Today's Progress**: Upwork Website using TailwindCSS
+
+**Thoughts**: Spent hours for other sections in my tailwindcss upwork clone project 🤓
+
+### Day 09: Dec 15, 2018
+
+**Today's Progress**: Upwork Website using TailwindCSS and Freecodecamp Javascript Certification
+
+**Thoughts**: Created other sections on tailwindcss upwork clone project and I am more close towards the end. Along with freeCodeCamp JavaScript course :)
 
